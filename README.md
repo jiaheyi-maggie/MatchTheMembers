@@ -11,7 +11,7 @@ This Mini Project App is meant to help new members of MDB get familiar with the 
 
 
 ## Start Interface
-![MDB Match the Members Start Interface](https://github.com/suhyangkim/Match-the-Members/blob/master/MatchTheMembers/Screen%20Shot%202020-02-07%20at%207.27.17%20PM.png)
+![MDB Match the Members Start Interface](https://github.com/jiaheyi-maggie/MatchTheMembers/blob/master/mainVC.png)
 
 ## Main Interface
 ![MDB Match the Members Main Interface](https://github.com/suhyangkim/Match-the-Members/blob/master/MatchTheMembers/Screen%20Shot%202020-02-07%20at%207.27.35%20PM.png)
